@@ -1,3 +1,4 @@
+https://hsiangminglo.com/blog/build-a-nextjs-website-macos
 https://hsiangminglo.com/blog/css-replace-overly-long-text-with-dots
 https://hsiangminglo.com/blog/ubuntu-ignore-HandleLidSwitch
 https://hsiangminglo.com/blog/javascript-aos-plugin
